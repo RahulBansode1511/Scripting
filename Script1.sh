@@ -2,6 +2,4 @@ echo "We are trying this practical from linux EC2"
 echo "I am from Young minds"
 echo "We are from batch-27" 
 echo "I am learning Git/Github"
-echo "I have added new code"
-echo "We are batch-30 students"
-echo "I joind ygminds to learn the DevOps"
+
